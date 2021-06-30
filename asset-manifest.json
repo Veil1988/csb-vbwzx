@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://veil1988.github.io/csb-vbwzx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://veil1988.github.io/csb-vbwzx/static/js/main.6e16f48d.chunk.js",
+    "main.js.map": "https://veil1988.github.io/csb-vbwzx/static/js/main.6e16f48d.chunk.js.map",
+    "runtime-main.js": "https://veil1988.github.io/csb-vbwzx/static/js/runtime-main.56825dbd.js",
+    "runtime-main.js.map": "https://veil1988.github.io/csb-vbwzx/static/js/runtime-main.56825dbd.js.map",
+    "static/js/2.f08f8e4f.chunk.js": "https://veil1988.github.io/csb-vbwzx/static/js/2.f08f8e4f.chunk.js",
+    "static/js/2.f08f8e4f.chunk.js.map": "https://veil1988.github.io/csb-vbwzx/static/js/2.f08f8e4f.chunk.js.map",
+    "index.html": "https://veil1988.github.io/csb-vbwzx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://veil1988.github.io/csb-vbwzx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f08f8e4f.chunk.js.LICENSE.txt": "https://veil1988.github.io/csb-vbwzx/static/js/2.f08f8e4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56825dbd.js",
+    "static/js/2.f08f8e4f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6e16f48d.chunk.js"
+  ]
+}
